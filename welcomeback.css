@@ -1,0 +1,121 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar
+{
+  height: 90.8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid grey;
+}
+
+  .logo{
+  display: flex;
+  justify-content: center;
+  color: red;
+  font-size: 40px;
+  font-weight: 600;
+  height: 120px;
+  width: 148px;
+  padding-left: 50px;
+  padding-top: 50px;
+  }
+.signIn{
+    font-size: 22px;
+    font-weight: bold;
+    padding-right: 50px;
+    cursor: pointer;
+  }
+  p{
+    color: red;
+  }
+a{
+    text-decoration: none;
+    color: black;
+}
+.body{
+    /* background-color: yellow; */
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    height: 458px;
+    width: 914px;
+    background-color: white;
+    padding-bottom: 110px;
+}
+
+input{
+    height: 60px;
+    width: 440px;
+}
+.emaile{
+    padding-left: 250px;
+}*/
+#enter{
+    width: 400px;
+    font-size: 20px;
+    color: #333333;
+}
+/* .forget{
+    padding-left: 250px;
+}  */
+.contents{
+    padding-left: 250px;
+    padding-bottom: 20px;
+}
+button{
+    background-color: red;
+  color: white;
+  width: 440px;
+  height: 60px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#forget{
+    color: #0071EB;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.footer{
+    height:fit-content;
+    background-color: #F3F3F3;
+  
+    padding-left: 173px;
+    font-size: 16px;
+    padding-bottom: 20px;
+}
+.allists{
+    display:flex;
+    margin-bottom: 25px;
+    color: #737373;
+    text-decoration: underline;
+    cursor: pointer;
+} 
+.others{
+    margin-right: 225px;
+}
+.other{
+    margin-right: 130px;
+}
+#q{
+    padding-top: 20px;
+    color: #737373;
+}
+#lang{
+    height:32px;
+    width: 120px;
+    color:#737373;
+    border: 1px solid black;
+    border-radius: 6%;
+    background-color: #FFF;
+    text-align: center;
+    
+  }

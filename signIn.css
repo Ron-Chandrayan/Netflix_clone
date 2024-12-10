@@ -1,0 +1,164 @@
+*{
+    padding: 0;
+    margin: 0;
+ }
+.class1{
+    background-image: url(netflixback.jpg);
+    height:700px;
+    background-size: cover;
+    z-index: 0;
+}
+.semiclass{
+    background-color: rgb(0 0 0 / .5);
+    height:700px
+  }
+  .logo{
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 40px;
+    font-weight: 600;
+    height: 70px;
+    width: 148px;
+    padding-left: 200px;
+    padding-top: 23px;
+  }
+a{
+    text-decoration: none;
+    color: red;
+}
+.fathercon{
+    display: flex;
+    justify-content: center;
+}
+.contents{
+    height: 607px;
+    background-color: rgb(0 0 0 / .6);
+    width: 445px;
+}
+.allboxes{
+    text-align: center;
+}
+input{
+    background-color: rgb(70,90,126 , 0.4);
+    color: white;
+    height:56px;
+    width: 310px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.but{
+    height:42px;
+    width: 310px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+#sign{
+    background-color: red;
+    color: white;
+}
+#code{
+    background-color: rgb(255 255 255 / .3);
+    color: white;
+}
+h1{
+    color: white;
+    /* padding-bottom: 30px;
+    padding-top: 45px;
+    padding-left: 63px; */
+    padding: 45px 0px 30px 63px;
+}
+.write{
+    margin-bottom: 15px;
+    color: white;
+    font-size: 18px;
+}
+#or{
+    color: #FFFFFFB3;
+}
+#forget{
+    cursor: pointer;   
+    margin-bottom: 20px;
+}
+#forget:hover{
+    text-decoration: underline;
+    color: #FFFFFFB3;
+}
+.remember{
+    font-size: 18px;
+    color: white;
+    width: fit-content;
+    padding-left: 63px;
+    margin-bottom: 20px;
+}
+#me{
+    height: 18px;
+    width: 18px;
+    margin-right: 10px;
+}
+.new{
+    width: fit-content;
+    color: white;
+    margin-left: 63px;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+t{
+    color: #FFFFFFB3;
+    padding-right: 5px;
+}
+o{
+    cursor: pointer;
+}
+o:hover{
+    text-decoration: underline;
+}
+.bot{
+    font-size: 14px;
+    color: #FFFFFFB3;
+    width:270px;
+    text-align: left;
+    margin-left: 63px;
+}
+k{
+    color: #0071eb;
+    cursor: pointer;
+}
+k:hover{
+    text-decoration: underline;
+}
+
+
+.footer{
+    height:500px;
+    background-color: black;
+    color: white;
+    padding-left: 173px;
+    font-size: 16px;
+}
+.allists{
+    display:flex;
+    margin-bottom: 25px;
+    color: #FFFFFFB3;
+    text-decoration: underline;
+    cursor: pointer;
+} 
+.others{
+    margin-right: 225px;
+}
+.other{
+    margin-right: 130px;
+}
+#q{
+    padding-top: 260px;
+    color: #FFFFFFB3;
+}
+#lang{
+    height:32px;
+    width: 120px;
+    color: white;
+    border: 0.5px solid white;
+    border-radius: 6%;
+    background-color: rgb(70,90,126 , 0.4);
+    text-align: center;
+  }
